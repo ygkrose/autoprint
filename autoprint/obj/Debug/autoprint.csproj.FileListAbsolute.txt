@@ -1,0 +1,8 @@
+c:\users\jack.yang\documents\visual studio 2015\Projects\autoprint\autoprint\obj\Debug\autoprint.csprojResolveAssemblyReference.cache
+c:\users\jack.yang\documents\visual studio 2015\Projects\autoprint\autoprint\obj\Debug\autoprint.Form1.resources
+c:\users\jack.yang\documents\visual studio 2015\Projects\autoprint\autoprint\obj\Debug\autoprint.Properties.Resources.resources
+c:\users\jack.yang\documents\visual studio 2015\Projects\autoprint\autoprint\obj\Debug\autoprint.csproj.GenerateResource.Cache
+c:\users\jack.yang\documents\visual studio 2015\Projects\autoprint\autoprint\bin\Debug\autoprint.exe
+c:\users\jack.yang\documents\visual studio 2015\Projects\autoprint\autoprint\bin\Debug\autoprint.pdb
+c:\users\jack.yang\documents\visual studio 2015\Projects\autoprint\autoprint\obj\Debug\autoprint.exe
+c:\users\jack.yang\documents\visual studio 2015\Projects\autoprint\autoprint\obj\Debug\autoprint.pdb
